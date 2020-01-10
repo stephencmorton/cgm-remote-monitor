@@ -615,13 +615,14 @@ a, a:visited, a:link {
   }
 
   .statusPills {
-    display: inline;
+    display: none;
     margin-left: auto;
     font-size: 12px;
     line-height: 13px;
   }
 
   .focus-range {
+    display: none;
     position: absolute;
     top: 60px;
     left: auto;
@@ -631,7 +632,7 @@ a, a:visited, a:link {
   }
 
   .focus-range li {
-    display: block;
+    display: none;
   }
 }
 
@@ -741,6 +742,7 @@ a, a:visited, a:link {
   }
 
   .focus-range {
+    display: none;
     position: absolute;
     top: 40px;
     left: auto;
@@ -750,11 +752,12 @@ a, a:visited, a:link {
   }
 
   .focus-range li {
-    display: block;
+    display: none;
   }
 
   .statusPills {
-    display: inline;
+    display: none;
+    
     margin-left: auto;
     font-size: 12px;
     line-height: 13px;
