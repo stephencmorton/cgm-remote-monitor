@@ -130,7 +130,7 @@ a, a:visited, a:link {
 }
 
 .urgent .bgButton {
-  color: #E94F64;
+  color: #E3223C;
 }
 
 .warning .bgButton {
@@ -138,7 +138,7 @@ a, a:visited, a:link {
 }
 
 .inrange .bgButton {
-  color: #52D273;
+  color: #71d252;
 }
 
 .bgStatus .bgSpan {
