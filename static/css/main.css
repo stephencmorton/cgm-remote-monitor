@@ -436,6 +436,12 @@ a, a:visited, a:link {
   font-size: 12px;
 }
 
+.contextline {
+  fill: none;
+  stroke: url(#context-line-gradient);
+  stroke-width: 2px;
+}
+
 @media (max-width: 1000px) {
   .bgStatus {
     width: 450px;
